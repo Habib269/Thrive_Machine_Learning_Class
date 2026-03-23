@@ -1,3 +1,3 @@
 # Thrive_Machine_Learning_Class
 Demo for github class
-Follow the instructions below
+Follow the instructions below 
